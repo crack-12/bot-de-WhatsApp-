@@ -9,10 +9,10 @@ https://youtu.be/chMc57gjmkI
 
 𝙈𝙮 𝘾𝙝𝙖𝙣𝙚𝙡:
 
-https://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA
+https://youtube.com/channel/UCNOdGsfoLeXTxKmakoRXW5A
                                         
 `.trim()) 
-handler.help = ['samu']
+handler.help = ['El crack.r.informatico']
 handler.tags = ['info']
 handler.command = /^samu$/i
 
