@@ -93,9 +93,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *║┊:* 💻𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 *%muptime*
 *║┊:* 📁𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg numeros
 *║┊:* 👑𝐌𝐲 𝐜𝐚𝐧𝐚𝐥 𝐝𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞
-*║┊:* https://www.youtube.com/watch?v=chMc57gjmkI&t=88s
+*║┊:* https://youtube.com/channel/UCNOdGsfoLeXTxKmakoRXW5A=88s
 *║┊:* 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
-*║┊:* @Samu330
+*║┊:* @El crack.r.informatico 
 *╰═┅ৡৢ͜͡✦═══╡𝗦𝗮𝗺𝘂𝟯𝟯𝟬╞═══┅ৡৢ͜͡✦═╯*
 %readmore
 *╭═┅〘🛑 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 𝗿𝗲𝗴𝗹𝗮𝘀 🛑〙*
@@ -106,7 +106,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *▌║➫ Bot By:*
 *▌║⊱⊲ ⃟ ⃟ ⃟ ⛨*
 *▌║╭━━━╮ _Owner bot_*
-*▌║┃╭━╮┃ Samu330*
+*▌║┃╭━╮┃ el crack.r.informatico*
 *▌║┃╰━━┳━━┳╮╭╮╭╮╱╭╮*
 *▌║╰━━╮┃╭╮┃╰╯┃┃┃╱┃┃*
 *▌║┃╰━╯┃╭╮┃┃┃┃┃╰━╯┃*
